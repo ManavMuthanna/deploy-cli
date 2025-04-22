@@ -5,6 +5,7 @@ go 1.23.0
 toolchain go1.23.8
 
 require (
+	github.com/joho/godotenv v1.5.1
 	github.com/manifoldco/promptui v0.9.0
 	github.com/spf13/cobra v1.9.1
 )
